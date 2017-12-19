@@ -1,0 +1,21 @@
+{
+  "name": "themeisle-icons",
+  "version": "1.0.0",
+  "description": "A free icon font from ThemeIsle.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codeinwp/themeisle-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "themeisle",
+    "font",
+    "icon"
+  ],
+  "author": "Andrei Baicus <andrei@themeisle.com> (https://themeisle.com)",
+  "license": "(OFL-1.1 AND MIT)",
+  "bugs": {
+    "url": "https://github.com/Codeinwp/themeisle-icons/issues"
+  },
+  "homepage": "https://themeisle.com/free-icons"
+}
