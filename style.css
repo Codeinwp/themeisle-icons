@@ -1,0 +1,326 @@
+@font-face {
+  font-family: 'themeisle-icons';
+  src:  url('fonts/themeisle-icons.eot?9k8til');
+  src:  url('fonts/themeisle-icons.eot?9k8til#iefix') format('embedded-opentype'),
+    url('fonts/themeisle-icons.ttf?9k8til') format('truetype'),
+    url('fonts/themeisle-icons.woff?9k8til') format('woff'),
+    url('fonts/themeisle-icons.svg?9k8til#themeisle-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ti {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'themeisle-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ti-man:before {
+  content: "\e900";
+}
+.ti-group:before {
+  content: "\e901";
+}
+.ti-search:before {
+  content: "\e902";
+}
+.ti-responsive:before {
+  content: "\e903";
+}
+.ti-check:before {
+  content: "\e904";
+}
+.ti-gear:before {
+  content: "\e905";
+}
+.ti-world:before {
+  content: "\e906";
+}
+.ti-design:before {
+  content: "\e907";
+}
+.ti-price:before {
+  content: "\e908";
+}
+.ti-page:before {
+  content: "\e909";
+}
+.ti-user:before {
+  content: "\e90a";
+}
+.ti-lock:before {
+  content: "\e90b";
+}
+.ti-mail:before {
+  content: "\e90c";
+}
+.ti-picture:before {
+  content: "\e90d";
+}
+.ti-notification:before {
+  content: "\e90e";
+}
+.ti-location:before {
+  content: "\e90f";
+}
+.ti-phone:before {
+  content: "\e910";
+}
+.ti-message:before {
+  content: "\e911";
+}
+.ti-offer:before {
+  content: "\e912";
+}
+.ti-statistics:before {
+  content: "\e913";
+}
+.ti-download:before {
+  content: "\e914";
+}
+.ti-write:before {
+  content: "\e915";
+}
+.ti-university:before {
+  content: "\e916";
+}
+.ti-trophy:before {
+  content: "\e917";
+}
+.ti-calendar:before {
+  content: "\e918";
+}
+.ti-bookmark:before {
+  content: "\e919";
+}
+.ti-id:before {
+  content: "\e91a";
+}
+.ti-repair:before {
+  content: "\e91b";
+}
+.ti-tag:before {
+  content: "\e91c";
+}
+.ti-hourglass:before {
+  content: "\e91d";
+}
+.ti-gears:before {
+  content: "\e91e";
+}
+.ti-folders:before {
+  content: "\e91f";
+}
+.ti-favorite:before {
+  content: "\e920";
+}
+.ti-megaphone:before {
+  content: "\e921";
+}
+.ti-shopping-cart:before {
+  content: "\e922";
+}
+.ti-plane:before {
+  content: "\e923";
+}
+.ti-key:before {
+  content: "\e924";
+}
+.ti-sign:before {
+  content: "\e925";
+}
+.ti-compass:before {
+  content: "\e926";
+}
+.ti-briefcase:before {
+  content: "\e927";
+}
+.ti-turn-off:before {
+  content: "\e928";
+}
+.ti-paperclip:before {
+  content: "\e929";
+}
+.ti-usb:before {
+  content: "\e92a";
+}
+.ti-pen:before {
+  content: "\e92b";
+}
+.ti-piggybank:before {
+  content: "\e92c";
+}
+.ti-webpage:before {
+  content: "\e92d";
+}
+.ti-house:before {
+  content: "\e92e";
+}
+.ti-heart:before {
+  content: "\e92f";
+}
+.ti-idea:before {
+  content: "\e930";
+}
+.ti-play:before {
+  content: "\e931";
+}
+.ti-science:before {
+  content: "\e932";
+}
+.ti-camera:before {
+  content: "\e933";
+}
+.ti-diamond:before {
+  content: "\e934";
+}
+.ti-lamp:before {
+  content: "\e935";
+}
+.ti-graph:before {
+  content: "\e936";
+}
+.ti-wifi:before {
+  content: "\e937";
+}
+.ti-chart:before {
+  content: "\e938";
+}
+.ti-share:before {
+  content: "\e939";
+}
+.ti-puzzle:before {
+  content: "\e93a";
+}
+.ti-balance:before {
+  content: "\e93b";
+}
+.ti-calculator:before {
+  content: "\e93c";
+}
+.ti-clock:before {
+  content: "\e93d";
+}
+.ti-wallet:before {
+  content: "\e93e";
+}
+.ti-shield:before {
+  content: "\e93f";
+}
+.ti-servers:before {
+  content: "\e940";
+}
+.ti-disk:before {
+  content: "\e941";
+}
+.ti-folder:before {
+  content: "\e942";
+}
+.ti-security:before {
+  content: "\e943";
+}
+.ti-microphone:before {
+  content: "\e944";
+}
+.ti-cloud-network:before {
+  content: "\e945";
+}
+.ti-file-download:before {
+  content: "\e946";
+}
+.ti-site-map:before {
+  content: "\e947";
+}
+.ti-mouse:before {
+  content: "\e948";
+}
+.ti-checklist:before {
+  content: "\e949";
+}
+.ti-battery:before {
+  content: "\e94a";
+}
+.ti-filter:before {
+  content: "\e94b";
+}
+.ti-mobile:before {
+  content: "\e94c";
+}
+.ti-settings:before {
+  content: "\e94d";
+}
+.ti-medal:before {
+  content: "\e94e";
+}
+.ti-music:before {
+  content: "\e94f";
+}
+.ti-vault:before {
+  content: "\e950";
+}
+.ti-credit-card:before {
+  content: "\e951";
+}
+.ti-graduation:before {
+  content: "\e952";
+}
+.ti-globe:before {
+  content: "\e953";
+}
+.ti-pointer:before {
+  content: "\e954";
+}
+.ti-refresh:before {
+  content: "\e955";
+}
+.ti-link:before {
+  content: "\e956";
+}
+.ti-drop:before {
+  content: "\e957";
+}
+.ti-telescope:before {
+  content: "\e958";
+}
+.ti-usb2:before {
+  content: "\e959";
+}
+.ti-database:before {
+  content: "\e95a";
+}
+.ti-gift:before {
+  content: "\e95b";
+}
+.ti-chart-gear:before {
+  content: "\e95c";
+}
+.ti-presentation:before {
+  content: "\e95d";
+}
+.ti-flag:before {
+  content: "\e95e";
+}
+.ti-download2:before {
+  content: "\e95f";
+}
+.ti-warning:before {
+  content: "\e960";
+}
+.ti-message2:before {
+  content: "\e961";
+}
+.ti-cloud-database:before {
+  content: "\e962";
+}
+.ti-security2:before {
+  content: "\e963";
+}
