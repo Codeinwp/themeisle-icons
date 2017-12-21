@@ -1,6 +1,6 @@
 {
   "name": "themeisle-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A free icon font from ThemeIsle.",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "icon"
   ],
   "author": "Andrei Baicus <andrei@themeisle.com> (https://themeisle.com)",
-  "license": "(OFL-1.1 AND MIT)",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Codeinwp/themeisle-icons/issues"
   },

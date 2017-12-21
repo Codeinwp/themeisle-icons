@@ -28,3 +28,5 @@ After you require the stylesheet in your project, you can display the icons by u
 As you can see above, you first have to use the `ti` class, followed by the specific class `ti-heart`.
 You can see a full guide for the icon classes [here](https://themeisle.com/free-icons).
 
+## License
+We have made these icons available for you to incorporate them into your products under the Apache License Version 2.0. Feel free to remix and re-share these icons and documentation in your products. We'd love attribution in your app's about screen, but it's not required. The only thing we ask is that you not re-sell these icons.
