@@ -29,4 +29,6 @@ As you can see above, you first have to use the `ti` class, followed by the spec
 You can see a full guide for the icon classes [here](https://themeisle.com/free-icons).
 
 ## License
-We have made these icons available for you to incorporate them into your products under the Apache License Version 2.0. Feel free to remix and re-share these icons and documentation in your products. We'd love attribution in your app's about screen, but it's not required. The only thing we ask is that you not re-sell these icons.
+We have made these icons available for you to incorporate into your products under the GNU General Public License (GPL). You are free to remix, modify, and share these icons and documentation in your projects as long as the same freedom is preserved in the modified versions.
+
+We would appreciate attribution in your app's about screen or documentation, but it is not required.
